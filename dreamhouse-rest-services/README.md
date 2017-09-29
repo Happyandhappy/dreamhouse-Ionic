@@ -6,7 +6,7 @@ Simple REST services for the DreamHouse sample app.
 
 1. Clone the repository:
     ```
-    git clone https://github.com/dreamhouseapp/dreamhouse-rest-services
+    git clone https://github.com/Happyandhappy/dreamhouse-Ionic/edit/master/dreamhouse-rest-services/
     ```
     
 1. Navigate to the `dreamhouse-rest-services` directory :
